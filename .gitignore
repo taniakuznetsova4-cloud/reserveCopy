@@ -4,6 +4,7 @@ env.txt
 # Виртуальное окружение
 .venv/
 venv/
+.env
 
 # IDE
 .idea/
